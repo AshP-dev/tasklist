@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+## This is a simple tasklist application, perfect for beginners learning React. 
+### It uses local storage to store the data, and utilizes basic javascript concepts as well as ES6 concepts like higher order functions.
+### Use this as a reference to build your own tasklist!
+
+This is some of the Documentation that comes with React :
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
